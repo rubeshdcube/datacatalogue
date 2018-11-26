@@ -7,7 +7,7 @@ setup(name='dcube',
           description='Library for Symphony Data Model',
           author='Dcube Analytics Pvt Ltd',
           author_email='dds@d3analytics.com',
-          packages=['claims']     
+          packages=['dcube', 'dcube.claims']     
      )
 __author__ = 'Dcube Analytics Pvt Ltd'
  
