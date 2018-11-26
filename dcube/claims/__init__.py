@@ -1,2 +1,2 @@
-from symphony import product_dimension_table
-from symphony import sob_dimension_table
+from symphony import symphony.product_dimension_table
+from symphony import symphony.sob_dimension_table
